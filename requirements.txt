@@ -4,4 +4,3 @@ ipywidgets
 display
 Ipython
 datetime
-date
