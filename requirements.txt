@@ -3,5 +3,5 @@ gunicorn==21.2.0
 ipywidgets
 display
 Ipython
-dateteime
+datetime
 date
